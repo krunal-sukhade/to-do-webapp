@@ -8,17 +8,7 @@ Check out the live version of the app here: [To-Do WebApp](https://to-do-webapp-
 ## Repository
 The source code is available on GitHub: [To-Do WebApp Repository](https://github.com/krunal-sukhade/to-do-webapp)
 
-## Features
-- Add, edit, and delete tasks
-- Mark tasks as completed
-- User-friendly and responsive UI
-- Persistent task storage
 
-## Technologies Used
-- Frontend: React + Vite, Tailwind CSS
-- Backend: Node.js, Express
-- Database: MongoDB
-- Hosting: Vercel (Frontend), Render/Heroku (Backend if applicable)
 
 ## Installation
 To run the project locally, follow these steps:
@@ -48,6 +38,39 @@ Contributions are welcome! To contribute:
 3. Commit your changes (`git commit -m "Added new feature"`).
 4. Push to your branch (`git push origin feature-branch`).
 5. Create a Pull Request.
+
+## Requirements
+
+### Frontend Development and API Integration:
+- Utilize HTML to structure the application's layout.
+- Use CSS for styling the application (Bootstrap or Material-UI is allowed).
+- Implement JavaScript (ES6+).
+- Integrate with a public API (e.g., a weather API) to display relevant data for tasks.
+- Implement error handling for API requests.
+
+### React Components and Advanced State Management:
+- Use functional components and React hooks (`useState`, `useEffect`).
+- Implement at least two components:
+  - **TaskInput**: Component for adding tasks.
+  - **TaskList**: Component for displaying tasks.
+- Use Redux Thunk or Redux Saga for handling asynchronous actions (API calls).
+
+### Responsive Design:
+- Ensure the application is fully responsive across mobile, tablet, and desktop devices.
+- Use CSS Grid and Flexbox for layout.
+- Implement a mobile-first design approach.
+
+### Functionality:
+- **Add Task**: Users can input and add tasks.
+- **View Tasks**: Display all added tasks.
+- **Delete Task**: Allow users to remove tasks.
+- **Task Prioritization**: Set and display task priorities (High, Medium, Low).
+- **Persistent Storage**: Use local/session storage for data persistence.
+
+### User Authentication:
+- Simulate login/logout functionality using Redux.
+- Protect the To-Do list so only logged-in users can access tasks.
+
 
 ## License
 This project is licensed under the MIT License.
