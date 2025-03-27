@@ -1,6 +1,5 @@
 {
   "name": "advance-todo",
-  "homepage" : "https://krunal-sukhade.github.io/to-do-webapp/"
   "private": true,
   "version": "0.0.0",
   "type": "module",
