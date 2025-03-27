@@ -3,7 +3,7 @@
 A simple and efficient To-Do Web Application to help users manage their daily tasks effectively.
 
 ## Live Demo
-Check out the live version of the app here: [To-Do WebApp](to-do-webapp-two.vercel.app)
+Check out the live version of the app here: [To-Do WebApp](https://to-do-webapp-two.vercel.app/)
 
 ## Repository
 The source code is available on GitHub: [To-Do WebApp Repository](https://github.com/krunal-sukhade/to-do-webapp)
