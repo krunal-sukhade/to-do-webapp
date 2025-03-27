@@ -75,13 +75,13 @@ Contributions are welcome! To contribute:
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/screenshot(173).png)
-
-### Task List
-![Task List](screenshots/screenshot(174).png)
+![Home Page](screenshots/login.png)
 
 ### Add Task
-![Add Task](screenshots/screenshot(175).png)
+![Task List](screenshots/inputtask.png)
+
+### List Tasks
+![Add Task](screenshots/tasklist.png)
 
 ## License
 This project is licensed under the MIT License.
