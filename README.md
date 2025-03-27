@@ -77,12 +77,12 @@ Contributions are welcome! To contribute:
 ### Home Page:
 ![Home Page](screenshots/login.png)
 
-
+___
 
 ### Add Task:
 ![Task List](screenshots/inputtask.png)
 
-
+___
 
 ### List Tasks:
 ![Add Task](screenshots/tasklist.png)
