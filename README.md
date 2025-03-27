@@ -72,6 +72,17 @@ Contributions are welcome! To contribute:
 - Protect the To-Do list so only logged-in users can access tasks.
 
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/screenshot(173).png)
+
+### Task List
+![Task List](screenshots/screenshot(174).png)
+
+### Add Task
+![Add Task](screenshots/screenshot(175).png)
+
 ## License
 This project is licensed under the MIT License.
 
