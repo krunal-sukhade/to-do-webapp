@@ -74,13 +74,17 @@ Contributions are welcome! To contribute:
 
 ## Screenshots
 
-### Home Page
+### Home Page:
 ![Home Page](screenshots/login.png)
 
-### Add Task
+
+
+### Add Task:
 ![Task List](screenshots/inputtask.png)
 
-### List Tasks
+
+
+### List Tasks:
 ![Add Task](screenshots/tasklist.png)
 
 ## License
